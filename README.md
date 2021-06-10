@@ -22,7 +22,7 @@ As final considerations:
 * You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
 * For max intensity in the heat map, try setting it to the highest humidity found in the data set.
 
-## Defininf Api key istructions
+## Defining Api key istructions
 To execute this project:
 Please generate and add the corresponding keys
 google api_key = https://console.cloud.google.com/apis
