@@ -19,5 +19,6 @@ I created a Python script that generated a heat map that displays the humidity f
 ### Api key istructions
 
 Below is the link to generate and add the corresponding keys for this project:
-google api_key = https://console.cloud.google.com/apis
-weather_apiKey = https://openweathermap.org/api
+
+* google api_key = https://console.cloud.google.com/apis
+* weather_apiKey = https://openweathermap.org/api
