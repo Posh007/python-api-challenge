@@ -16,7 +16,7 @@ The final notebook contains:
 
 I created a Python script that generated a heat map that displays the humidity for every city from Part I.  To accomplish this,  I utilized  jupyter-gmaps and Google Places API to find the first hotel for each city located within 5000 meters of my coordinates and plotted the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-### Api key istructions
+### Api Key Instructions
 
 Below is the link to generate and add the corresponding keys for this project:
 
